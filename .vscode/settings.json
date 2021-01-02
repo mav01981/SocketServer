@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/faac0343-4ae8-4baa-b7c2-8fe2b82bb584/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/SocketServerJs",
+    "appService.deploySubpath": "."
+}
